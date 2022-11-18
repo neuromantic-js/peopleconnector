@@ -33,7 +33,7 @@
     "less-loader": "^5.0.0",
     "method-override": "^3.0.0",
     "mongoose": "^5.7.4",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
     "sharp": "^0.23.1"
